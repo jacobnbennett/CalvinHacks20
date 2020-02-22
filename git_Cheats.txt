@@ -10,3 +10,4 @@ Add to repository:
 Commit
 	git commit -m "coment here"
 
+	git commit -m "comment here"
